@@ -8,4 +8,6 @@
 
 ## Running Instructions
 
+## Trade-offs
+
 ## Future Improvements
