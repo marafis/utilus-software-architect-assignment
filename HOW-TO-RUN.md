@@ -25,7 +25,7 @@ http://localhost:8080
 ```
 ---
 
-## 3. Run Frontend (choose ONE option)
+## 3. Run Frontend 
 ### Python static server
 
 From frontend/ folder:
