@@ -1,4 +1,6 @@
-# ====================================================================
-# IDE Specific (IntelliJ IDEA)
-# ====================================================================
 .idea
+out
+simulation/.mvn
+simulation/mvnw.cmd
+simulation/mvnw
+simulation/target

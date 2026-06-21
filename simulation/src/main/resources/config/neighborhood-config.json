@@ -1,0 +1,11 @@
+{
+  "houses": 30,
+  "publicChargers": 6,
+  "assetDistribution": {
+    "pv": 0.4,
+    "heatPump": 0.3,
+    "evCharger": 0.2
+  },
+  "randomSeed": 42,
+  "pvCoveragePerHouse": 0.5
+}

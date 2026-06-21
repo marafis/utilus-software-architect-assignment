@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Energy Simulation</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<h2>Neighbourhood Simulation</h2>
+
+<div>
+    <p>Time: <span id="time"></span></p>
+    <p>Net Load: <span id="load"></span> kW</p>
+    <p>Battery SOC: <span id="soc"></span> kWh</p>
+    <p>Battery Power: <span id="power"></span> kW</p>
+</div>
+
+<button onclick="startSim()">Start</button>
+<button onclick="stopSim()">Stop</button>
+
+<canvas id="chart"></canvas>
+
+<script src="app.js"></script>
+
+</body>
+</html>
